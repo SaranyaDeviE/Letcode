@@ -9,7 +9,7 @@ public class Practice_1 {
 
 }
 
-class Practice_2 {
+class Practice_2 { 
 	public static void displayMessage() {
         System.out.println("Non public class");
     }
